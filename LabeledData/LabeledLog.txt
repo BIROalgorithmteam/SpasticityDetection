@@ -1,0 +1,5 @@
+LabeledLog
+
+Last labeled CS012
+Notes:
+CS012 Day2 Ham: spastic activity barely above threshold. Segment lenght 0.8s
